@@ -59,7 +59,6 @@ Cleaned file saved to: output/cleaned_data.csv
 ```
 ## Screenshots
 
-### Terminal Output
 ![Demo](screenshots/demo.png)
 
 ## Why this is useful
