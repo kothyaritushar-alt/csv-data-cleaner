@@ -2,13 +2,6 @@
 
 A Python automation tool that cleans messy CSV files, removes duplicate rows, fills missing values, and saves a cleaned output file.
 
-## What this project does
-This tool helps users quickly clean spreadsheet data that has:
-- duplicate rows
-- missing values
-- messy column names
-- inconsistent formatting
-
 ## Features
 This project can help with:
 - Cleaning exported CRM data
