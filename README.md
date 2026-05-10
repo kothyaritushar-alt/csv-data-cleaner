@@ -10,12 +10,12 @@ This tool helps users quickly clean spreadsheet data that has:
 - inconsistent formatting
 
 ## Features
-- Reads CSV files
-- Cleans column names
-- Removes duplicates
-- Fills missing values
-- Saves cleaned CSV
-- Prints a basic report
+This project can help with:
+- Cleaning exported CRM data
+- Removing duplicate customer records
+- Preparing datasets for analysis
+- Automating spreadsheet cleanup tasks
+- Improving messy CSV formatting
 
 ## Technologies Used
 - Python 3
