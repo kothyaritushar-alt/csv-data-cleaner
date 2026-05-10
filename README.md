@@ -57,6 +57,10 @@ python cleaner.py input/sample.csv -o output/final_cleaned.csv
 Duplicates removed: 1
 Cleaned file saved to: output/cleaned_data.csv
 ```
+## Screenshots
+
+### Terminal Output
+![Demo](screenshots/demo.png)
 
 ## Why this is useful
 Many clients work with CSV files from Excel, Google Sheets, exports, or CRM tools.  
